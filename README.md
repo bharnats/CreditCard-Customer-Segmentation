@@ -22,9 +22,11 @@ To identify different segments in the existing customer based on their spending 
 * KMeans Clustering
 * Agglomerative Hierarchical Clustering
 
-## Optimal Number of Clusters
+### Optimal Number of Clusters
 ### ![Elbow Plot](/Images/img1.png) 
+### Cluster Analysis using Boxplots
 ### ![Cluster Analysis using Boxplots](/Images/img2.png) 
+### Dendrogram-Hierarchical Clustering
 ### ![Dendrogram- Hierarchical Clustering](/Images/img3.png) 
 
 ## The 4 segments are distinct and their profile is below:
