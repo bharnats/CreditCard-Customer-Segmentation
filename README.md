@@ -1,14 +1,12 @@
 # CreditCard-Customer-Segmentation
 ## Data Description:
 The dataset contains data on 660 customers. Data is of various customers of a bank with their credit limit, the total number of credit cards the customer has, and different channels through which customer has contacted the bank for any queries, different channels include visiting the bank, online and through a call.
-
 Customer key - Identifier for the customer
 Average Credit Limit - Average credit limit across all the credit cards
 Total credit cards - Total number of credit cards
 Total visits bank - Total number of bank visits
 Total visits online - total number of online visits
 Total calls made - Total number of calls made by the customer
-
 ## Domain
 Banking
 ## Context
@@ -30,7 +28,7 @@ To identify different segments in the existing customer based on their spending 
 ### ![Dendrogram- Hierarchical Clustering](/Images/img3.png) 
 
 ## The 4 segments are distinct and their profile is below:
-###Label 0: Lowest Avg Credit limit Customers and make high number of Calls
+### Label 0: Lowest Avg Credit limit Customers and make high number of Calls
 ### Label 1: High Credit limit but less total number of Credit Cards and least total number of calls
 ### Label 2: Customers making least Average online visits
 ### Label 3: Highest Avg Credit limit customers and highest total number of credit cards
