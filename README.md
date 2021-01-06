@@ -30,10 +30,10 @@ To identify different segments in the existing customer based on their spending 
 ### ![Dendrogram- Hierarchical Clustering](/Images/img3.png) 
 
 ### The 4 segments are distinct and their profile is below:
-Label 0: Lowest Avg Credit limit Customers and make high number of Calls
-Label 1: High Credit limit but less total number of Credit Cards and least total number of calls
-Label 2: Customers making least Average online visits
-Label 3: Highest Avg Credit limit customers and highest total number of credit cards
+* Label 0: Lowest Avg Credit limit Customers and make high number of Calls
+* Label 1: High Credit limit but less total number of Credit Cards and least total number of calls
+* Label 2: Customers making least Average online visits
+* Label 3: Highest Avg Credit limit customers and highest total number of credit cards
 
 ### Recommendations to the bank to better market to and service these customers
 I would recommend the Market research team to focus their personalised Campaigns on Label 1 customers who have high Avg Credit limit but less number of Credit Cards. These potential customers can be targeted to take more credit cards.I would also recommend them to focus on label 0 customers, to improve their credit limit and hence sell more credit cards to them.
