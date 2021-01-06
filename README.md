@@ -1,4 +1,4 @@
-# CreditCard-Customer-Segmentation
+# CreditCard Customer Segmentation
 ## Data Description:
 The dataset contains data on 660 customers. Data is of various customers of a bank with their credit limit, the total number of credit cards the customer has, and different channels through which customer has contacted the bank for any queries, different channels include visiting the bank, online and through a call.
 Customer key - Identifier for the customer
