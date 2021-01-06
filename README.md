@@ -22,7 +22,7 @@ To identify different segments in the existing customer based on their spending 
 * KMeans Clustering
 * Agglomerative Hierarchical Clustering
 
-### Optimal Number of Clusters
+### Elbow Plot for optimal number of clusters
 ### ![Elbow Plot](/Images/img1.png) 
 ### Cluster Analysis using Boxplots
 ### ![Cluster Analysis using Boxplots](/Images/img2.png) 
