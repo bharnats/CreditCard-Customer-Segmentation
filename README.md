@@ -25,3 +25,5 @@ To identify different segments in the existing customer based on their spending 
 * Agglomerative Hierarchical Clustering
 
 ## Optimal Number of Clusters
+
+
